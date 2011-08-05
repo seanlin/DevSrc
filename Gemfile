@@ -20,6 +20,8 @@ gem 'mongoid'
 gem 'bson_ext'
 gem 'omniauth'
 gem 'simple_form'
+gem 'slugoid'
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
